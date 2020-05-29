@@ -1,4 +1,4 @@
-Titanic Survival Prediction
+# Titanic Survival Prediction
 
 This project is my attempt at the Kaggle's Titanic competition. The goal is to predict the survivability of passengers in the Titanic disaster.
 
